@@ -1,0 +1,78 @@
+@font-face {
+    font-family: 'Olympic Sans';
+    src: url('OlympicSans-Italic.eot');
+    src: local('Olympic Sans Italic'), local('OlympicSans-Italic'),
+        url('OlympicSans-Italic.eot?#iefix') format('embedded-opentype'),
+        url('OlympicSans-Italic.woff2') format('woff2'),
+        url('OlympicSans-Italic.woff') format('woff'),
+        url('OlympicSans-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Olympic Sans';
+    src: url('OlympicSans-MediumItalic.eot');
+    src: local('Olympic Sans Medium Italic'), local('OlympicSans-MediumItalic'),
+        url('OlympicSans-MediumItalic.eot?#iefix') format('embedded-opentype'),
+        url('OlympicSans-MediumItalic.woff2') format('woff2'),
+        url('OlympicSans-MediumItalic.woff') format('woff'),
+        url('OlympicSans-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Olympic Sans';
+    src: url('OlympicSans.eot');
+    src: local('Olympic Sans'), local('OlympicSans'),
+        url('OlympicSans.eot?#iefix') format('embedded-opentype'),
+        url('OlympicSans.woff2') format('woff2'),
+        url('OlympicSans.woff') format('woff'),
+        url('OlympicSans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Olympic Sans';
+    src: url('OlympicSans-Bold.eot');
+    src: local('Olympic Sans Bold'), local('OlympicSans-Bold'),
+        url('OlympicSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('OlympicSans-Bold.woff2') format('woff2'),
+        url('OlympicSans-Bold.woff') format('woff'),
+        url('OlympicSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Olympic Sans';
+    src: url('OlympicSans-Medium.eot');
+    src: local('Olympic Sans Medium'), local('OlympicSans-Medium'),
+        url('OlympicSans-Medium.eot?#iefix') format('embedded-opentype'),
+        url('OlympicSans-Medium.woff2') format('woff2'),
+        url('OlympicSans-Medium.woff') format('woff'),
+        url('OlympicSans-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Olympic Sans';
+    src: url('OlympicSans-BoldItalic.eot');
+    src: local('Olympic Sans Bold Italic'), local('OlympicSans-BoldItalic'),
+        url('OlympicSans-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('OlympicSans-BoldItalic.woff2') format('woff2'),
+        url('OlympicSans-BoldItalic.woff') format('woff'),
+        url('OlympicSans-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+

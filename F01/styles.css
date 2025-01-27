@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Olympic Sans';
+    src: url('OlympicSans.eot');
+    src: local('Olympic Sans'), local('OlympicSans'),
+        url('OlympicSans.eot?#iefix') format('embedded-opentype'),
+        url('OlympicSans.woff2') format('woff2'),
+        url('OlympicSans.woff') format('woff'),
+        url('OlympicSans.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Olympic Sans';
+    src: url('assets/olympic-sans/OlympicSans-Bold.eot');
+    src: local('Olympic Sans Bold'), local('OlympicSans-Bold'),
+        url('assets/olympic-sans/OlympicSans-Bold.eot?#iefix') format('embedded-opentype'),
+        url('assets/olympic-sans/OlympicSans-Bold.woff2') format('woff2'),
+        url('assets/olympic-sans/OlympicSans-Bold.woff') format('woff'),
+        url('assets/olympic-sans/OlympicSans-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+.navText{
+    font-family: 'Olympic Sans';
+
+}
